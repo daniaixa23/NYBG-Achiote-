@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       title="Ancestral Achiote: Bixaceae, Bixa Orellana"
        source-image="https://upload.wikimedia.org/wikipedia/commons/6/6a/Bixa_orellana_fruit_open.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/6/6a/Bixa_orellana_fruit_open.jpg"
        author="Danielle Cruz"
