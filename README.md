@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       source-image="[https://commons.wikimedia.org/wiki/File:Bixa_orellana_fruit_open.jpg](https://commons.wikimedia.org/wiki/File:Bixa_orellana_fruit_open.jpg)"
-       banner="[https://commons.wikimedia.org/wiki/File:Bixa_orellana_fruit_open.jpg](https://commons.wikimedia.org/wiki/File:Bixa_orellana_fruit_open.jpg)"
+       source-image="[ttps://commons.wikimedia.org/wiki/File:Bixa_orellana_fruit_open.jpg](https://commons.wikimedia.org/wiki/File:Bixa_orellana_fruit_open.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bixa_orellana_fruit_open.jpg)"
+       banner="[https://commons.wikimedia.org/wiki/File:Bixa_orellana_fruit_open.jpg](https://commons.wikimedia.org/wiki/File:Bixa_orellana_fruit_open.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bixa_orellana_fruit_open.jpg)"
        author="Danielle Cruz"
        layout="vertical">
 
