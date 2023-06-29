@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       banner=https://commons.wikimedia.org/wiki/File:Bixa_orellana_Blanco1.231.png
+       banner=https://commons.wikimedia.org/wiki/File:Bixa_orellana_02.jpg
        author="Danielle Cruz"
        layout="vertical">
 
