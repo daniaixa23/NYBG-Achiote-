@@ -16,3 +16,4 @@
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-entity eid="Q414" title="Argentina">
 
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Bixa_orellana_Blanco1.231-cropped.jpg">
